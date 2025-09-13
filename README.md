@@ -1,9 +1,3 @@
-## Software Quotes & Citations
-
-A curated collection of **famous citations in software engineering, management, and software architecture**.  
-
----
-
 ### Software Management
 
 > **“Adding manpower to a late software project makes it later.”**  
