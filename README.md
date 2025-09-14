@@ -1,3 +1,5 @@
+💡 "A man without citations is nude."
+
 ### Software Management
 
 > **“Adding manpower to a late software project makes it later.”**  
