@@ -1,4 +1,8 @@
+## Famous Citations
+
 💡 "A man without citations is nude."
+
+---
 
 ### Software Management
 
@@ -8,14 +12,8 @@
 > **“Good programmers write code that humans can understand.”**  
 > — Martin Fowler (*Refactoring*)
 
-> **“The bearing of a child takes nine months, no matter how many women are assigned.”**  
-> — Fred Brooks (*The Mythical Man-Month*)
-
-> **“The hardest single part of building a software system is deciding precisely what to build.”**  
-> — Fred Brooks
-
-> **“Plans are worthless, but planning is everything.”**  
-> — Dwight D. Eisenhower
+> **“Optimism is an occupational hazard of programming: feedback is the treatment.”**  
+> — Kent Beck
 
 > **“You can’t control what you can’t measure.”**  
 > — Tom DeMarco (*Controlling Software Projects*)
@@ -26,11 +24,17 @@
 > **“Working software is the primary measure of progress.”**  
 > — *Agile Manifesto*
 
+> **“Lean thinking says: eliminate waste. In software, waste is anything that does not add value to the customer.”**  
+> — Mary Poppendieck (*Lean Software Development*)
+
+> **“Continuous delivery is about building quality in, not adding it at the end.”**  
+> — Jez Humble (*Continuous Delivery*)
+
 > **“If you don’t actively attack complexity, it will actively attack you.”**  
 > — Andy Hunt & Dave Thomas (*The Pragmatic Programmer*)
 
-> **“Failing to plan is planning to fail.”**  
-> — Alan Lakein
+> **“The hardest single part of building a software system is deciding precisely what to build.”**  
+> — Fred Brooks
 
 ---
 
@@ -54,14 +58,14 @@
 > **“The best architectures are those that support change.”**  
 > — Mary Shaw & David Garlan (*Software Architecture: Perspectives on an Emerging Discipline*)
 
-> **“Simplicity is the ultimate sophistication.”**  
-> — Leonardo da Vinci
+> **“Simplicity is prerequisite for reliability.”**  
+> — Edsger Dijkstra
 
-> **“You can’t understand a system until you try to change it.”**  
-> — Fred Brooks (*The Mythical Man-Month*)
+> **“Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.”**  
+> — Melvin Conway (*Conway’s Law*)
+
+> **“The best way to predict the future is to invent it.”**  
+> — Alan Kay (*creator of Smalltalk, father of OOP*)
 
 > **“Software architecture is not about building the right system; it is about building the system right.”**  
 > — Paraphrased from Len Bass et al. (*Software Architecture in Practice*)
-
-> **“Every system is perfectly designed to get the results it gets.”**  
-> — W. Edwards Deming
