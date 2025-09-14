@@ -103,3 +103,46 @@
 
 > **“The system must assume failure will happen, and then make it irrelevant.”**  
 > — ... Pat Helland
+
+---
+
+### Core DevOps Principles
+
+> **Culture over tools**  
+> DevOps is fundamentally about collaboration and shared responsibility between development and operations.
+
+> **The First Way: Flow**  
+> Optimize the flow of work from development to operations to the customer.  
+> — Gene Kim (*The Phoenix Project*, *DevOps Handbook*)
+
+> **The Second Way: Feedback**  
+> Create fast, continuous feedback loops to detect problems early.  
+> — Gene Kim (*The Phoenix Project*, *DevOps Handbook*)
+
+> **The Third Way: Continuous Learning**  
+> Foster a culture of experimentation, risk-taking, and continual improvement.  
+> — Gene Kim (*The Phoenix Project*, *DevOps Handbook*)
+
+> **Automate everything you can**  
+> Infrastructure as Code, CI/CD pipelines, testing, deployments.  
+> — Jez Humble (*Continuous Delivery*)
+
+> **Small, frequent changes**  
+> Deliver in small batches to reduce risk, speed learning, and improve recovery.  
+> — Lean & Agile principle
+
+> **Build quality in**  
+> Shift left: test, security, and performance baked into the development process, not bolted on later.  
+> — Jez Humble (*Continuous Delivery*)
+
+> **Resilience over robustness**  
+> Assume failure will happen; design for recovery, self-healing, and graceful degradation.  
+> — SRE / Resilience Engineering
+
+> **Measure everything**  
+> Use metrics (lead time, MTTR, deployment frequency, change failure rate — i.e., the DORA metrics) to guide improvement.  
+> — Accelerate (Forsgren, Humble, Kim)
+
+> **Customer value as the north star**  
+> All DevOps work should ultimately be measured by its impact on delivering value to the end user.
+
