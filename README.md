@@ -69,3 +69,37 @@
 
 > **“Software architecture is not about building the right system; it is about building the system right.”**  
 > — Paraphrased from Len Bass et al. (*Software Architecture in Practice*)
+
+---
+
+### Failure in Distributed Systems
+
+> **“Chaos is inevitable; embrace it to build resilience.”**  
+> — Netflix Chaos Engineering motto
+
+> **“Design for failure and nothing fails.”**  
+> — Werner Vogels
+
+> **“Failure is the normal state of distributed computing.”**  
+> — ... from Leslie Lamport & Nancy Lynch
+
+> **“The network is reliable. Latency is zero. Bandwidth is infinite. …”**  
+> — *The Eight Fallacies of Distributed Computing* (Sun Microsystems)  
+
+> **“In a distributed system, failure is not a matter of if, but when.”**  
+> — distributed systems folklore
+
+> **“Hope is not a strategy.”**  
+> — Richard Cook
+
+> **“If you think you understand distributed systems, you’re probably doing it wrong.”**  
+> — distributed systems folklore
+
+> **“There is no such thing as a fail-safe system; there are only fail-resilient systems.”**  
+> — ...from resilience engineering principles
+
+> **“The real challenge of distributed systems is not performance, but coordination in the presence of failures.”**  
+> — Nancy Lynch
+
+> **“The system must assume failure will happen, and then make it irrelevant.”**  
+> — ... Pat Helland
